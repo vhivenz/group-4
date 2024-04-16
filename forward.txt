@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="group 2>"
+<title>LEARNED</title>
+<style>
+@font-face {
+  font-family: 'Alex Brush';
+  src: url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+}
+
+.box {
+  border: 50px solid teal;
+  padding: 200px;
+  background-color:orange;
+  width: 800px;
+  height: 300px;
+  text-align: center;
+  position: relative;
+}
+
+.hakdog {
+  font-size: 50px;
+  font-family: 'Alex Brush', cursive;
+}
+
+.bottom-left {
+  position:bottom-left;
+  bottom: 0;
+  left: 5;
+  font-size:18px;
+}
+
+</style>
+</head>
+<body>
+
+<div class="box">
+  <h1 class="hakdog">You have to take action to keep moving forwad, its better to do something than nothing.</h1>
+  <p1 class="bottom-left">by GROUP 4</p>
+</div>
+
+</body>
+</html>
